@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shiva</h1>
 <h3 align="center">I am a student pursuing B.Tech at IIT Goa.</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
-
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **sg7716567@gmail.com**
 
-- ⚡ Fun fact **I rejected an opportunity to get into MATHEMATICS AND COMPUTING branch and got into ELECTRICAL ENGINEERING, now learning Web development😅😅.**
+- ⚡ Fun fact **I rejected an opportunity to get into MATHEMATICS & COMPUTING branch and got into ELECTRICAL ENGINEERING, now learning Web development and took Minor in COMPUTER SCIENCE & ENGINEERING😅😅.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
