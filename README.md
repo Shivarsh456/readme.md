@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva</h1>
 <h3 align="center">I am a student pursuing B.Tech at IIT Goa.</h3>
 
-- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **sg7716567@gmail.com**
 
